@@ -1,8 +1,8 @@
 # Automation Testing on Rokomari.com
 
--[Introduction](https://github.com/ntnSNnice/Test_Automation_Rokomari/blob/main/README.md#introduction)
+-[Introduction](https://github.com/ntnSNnice/Test_Automation_Rokomari#introduction)
 
--[Allure Report](https://github.com/ntnSNnice/Test_Automation_Rokomari/blob/main/README.md#allure-report) 
+-[Allure Report](https://github.com/ntnSNnice/Test_Automation_Rokomari#allure-report) 
 
  
 
